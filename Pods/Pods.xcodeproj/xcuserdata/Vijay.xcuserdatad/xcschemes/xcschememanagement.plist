@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-pugtracker-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-pugtracker-JGProgressHUD.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-pugtracker-ZFDragableModalTransition.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-pugtracker-pop.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-pugtracker.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2516F5914AC211BA530B6288</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>451C4A81077F4FF2ADB12760</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>45F9937B5FB72E1AADEC4044</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C68EFA39E1402AF3E3E15A50</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F0A756829CF671B9FEB759ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
