@@ -17,4 +17,6 @@ Features:
 - Feeding pug increases weight by 0.5 pounds.
 - Walking pug decreases weight by 0.25 pounds
 
+UI tested on iPhone 4S, 5, 6 and 6 Plus.
+
 I did my best to comment as much of the code as I could, but if there any questions, or any features/testing that you want me to add I'll be happy to do so!
